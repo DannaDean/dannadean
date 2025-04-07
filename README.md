@@ -11,8 +11,18 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=DannaDean&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DannaDean&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=DannaDean&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+Education: <br />
+👉Hight School IPLT - Stefan Voda (2019 - 2022) <br />
+👉IT Step Academy Moldova - Chisinau (2022 - 2023) <br />
+
+Certifications:<br />
+👉Entrepreneurial Skills Pass <br />
+👉Graphic Design - Tekwill <br />
+👉Responsive Web Design - freeCodeCamp <br />
+👉Full Stack Web Developer Certificate - IT Step Academy<br />
+
+Work experience: <br />
+👉Full Stack Web Developer - MakeIT - Digital Agency - Chisinau (November 2023 - Present)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
