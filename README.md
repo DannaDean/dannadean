@@ -22,7 +22,7 @@ Certifications:<br />
 👉Full Stack Web Developer Certificate - IT Step Academy<br />
 
 Work experience: <br />
-👉Full Stack Web Developer - MakeIT - Digital Agency - Chisinau, MD (November 2023 - July 2025)
+👉Full Stack Web Developer - MakeIT - Digital Agency - Chisinau, MD (November 2023 - July 2025)<br />
 👉Full Stack Web Developer - Fastwarm underfloor heating - Basildon, UK (July 2025 - Present)
 
 ### ✍️ Random Dev Quote
